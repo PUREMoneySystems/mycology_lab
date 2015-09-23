@@ -373,12 +373,8 @@ float currentHumidity;
 
 
 
-//char ssid[] = "FiOS-0SFY0";     //  your network SSID (name)
-//char pass[] = "bars598poem7994nod";    // your network password
-//char ssid[] = "TPAHKRSPC";     //  your network SSID (name)
-//char pass[] = "QRTjj7C@m";    // your network password
-char ssid[] = "2WIRE544";     //  your network SSID (name)
-char pass[] = "6579367727";    // your network password
+char ssid[] = "TPAHKRSPC";     //  your network SSID (name)
+char pass[] = "QRTjj7C@m";    // your network password
 int status = WL_IDLE_STATUS;     // the Wifi radio's status
 
 
